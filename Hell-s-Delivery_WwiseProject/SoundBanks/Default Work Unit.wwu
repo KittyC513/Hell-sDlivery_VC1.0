@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4072AD5F-DEB6-4918-8E75-37A7A5D89E8D}" SchemaVersion="110">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{4072AD5F-DEB6-4918-8E75-37A7A5D89E8D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{F687EAB6-093F-41BB-B993-D61195650091}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music 2" ID="{997590E6-B055-4E0E-ADD0-EB200C569672}" WorkUnitID="{997590E6-B055-4E0E-ADD0-EB200C569672}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Music" ID="{53224322-6787-4548-A0E3-67FA0A4CB1A4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music" ID="{F0EF074D-C6AA-4468-B873-619ADBC1300A}" WorkUnitID="{F0EF074D-C6AA-4468-B873-619ADBC1300A}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="PlayerSFX" ID="{71EB73C0-AF18-4BBD-800D-C08993E7E176}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI Sounds" ID="{9E4E1A73-D011-400E-BE16-51C3A5D158F8}" WorkUnitID="{9E4E1A73-D011-400E-BE16-51C3A5D158F8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_PushCharge" ID="{064DBB77-478F-40DD-AD9C-FE5637BF93A3}" WorkUnitID="{7869F37F-5F14-42E8-BD14-FCCF80764E96}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Environmental Sounds" ID="{AA0FE778-8CA6-40E7-BE13-66CDC3D7B9B5}" WorkUnitID="{AA0FE778-8CA6-40E7-BE13-66CDC3D7B9B5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player Sounds" ID="{6D4AB400-C6A1-48E0-9D5B-EA030FA487CA}" WorkUnitID="{6D4AB400-C6A1-48E0-9D5B-EA030FA487CA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ShmonkSounds" ID="{4D2CA381-07B7-49D7-829A-2876DDFC6E3F}" WorkUnitID="{4D2CA381-07B7-49D7-829A-2876DDFC6E3F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_All" ID="{448E8EAA-B8B1-4D9B-80F7-C8B0A76ACCD1}" WorkUnitID="{7869F37F-5F14-42E8-BD14-FCCF80764E96}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Yapping" ID="{BAFCDDB5-EB15-4E9A-993D-023F5C39C5BE}" WorkUnitID="{7869F37F-5F14-42E8-BD14-FCCF80764E96}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ShminkSounds" ID="{54E5BA7A-9FCB-4F87-B600-752915749DE1}" WorkUnitID="{54E5BA7A-9FCB-4F87-B600-752915749DE1}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
