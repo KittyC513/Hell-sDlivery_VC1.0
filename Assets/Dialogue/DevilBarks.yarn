@@ -1,0 +1,138 @@
+title: DevilBarks
+tags:
+---
+
+===
+
+title: LookAround
+tags:
+---
+Welcome to Hell's Delivery, where deliveries are hotter than our customers! #line:devil_tutorial_2 
+Take your time to <color=red>look around</color>. #line:devil_tutorial_3
+
+<<DestroyBlockingWall1>>
+===
+
+
+title: LookAround2
+tags:
+---
+Welcome to Hell's Delivery, where deliveries are hotter than our customers!
+Take your time to <color=red>look</color> around.
+
+<<DestroyBlockingWall1>>
+===
+
+//the cameras morph into one camera view to show...
+title: Packages
+tags:
+---
+Our service depends on these <color=red>packages being delivered</color>. #line:devil_tutorial_4
+Along with the fate of your jobs. #line:devil_tutorial_5
+And like any good delivery company, we don't just set packages down. We <color=red>throw</color> them! #line:devil_tutorial_6 
+Be careful though, wouldn't want you to <color=red>lose</color> the package. #line:devil_borks_45
+It wouldn't reflect well on your evaluations if <color=red>I</color> had to bring it back to you. #line:devil_borks_46
+Now, <color=red>pick up</color> the package, and <color=red>don't forget it</color>. #line:devil_tutorial_7
+
+<<DestroyBlockingWall2>>
+===
+
+title: Push
+tags:
+---
+I wouldn't be surprised if you were tempted to <color=red>push</color> each other for personal gain... #line:devil_tutorial_8 
+In fact, I'd turn a blind eye if that were the case. #line:devil_tutorial_9
+
+<<DestroyBlockingWall3>>
+===
+
+title: Push2
+tags:
+---
+I wouldn't be surprised if you were tempted to <color=red>push</color> each other for personal gain...
+In fact, I'd turn a blind eye if that were the case.
+
+<<DestroyBlockingWall3>>
+===
+
+//the cameras morph into one camera view to show...
+title: PressurePlate
+tags:
+---
+Now, now, pace yourselves. Some things need <color=red>activating</color>. #line:devil_tutorial_10
+This <color=red>purple</color> one is easy, just <color=red>stand</color> on it. #line:devil_tutorial_11 
+===
+
+title: P1GoldSummoningSquare
+tags:
+---
+You also don't need to think for this <color=red>gold</color> one. #line:devil_tutorial_12 
+Go on, <color=red>stand</color> on it. #line:devil_tutorial_13
+
+<<DestroyBlockingWall10>>
+===
+
+title: P2GoldSummoningSquare
+tags:
+---
+You also don't need to think for this <color=red>gold</color> one.
+Go on, <color=red>stand</color> on it.
+
+<<DestroyBlockingWall10>>
+===
+
+//the cameras morph into one camera view to show...
+title: Checkpoints
+tags:
+---
+Don't come crying to me when you get injured on the job. #line:devil_tutorial_14
+You don't get any compensation, only these <color=red>checkpoints</color>. #line:devil_tutorial_15
+
+<<DestroyBlockingWall5>>
+===
+
+//the cameras morph into one camera view to show...
+title: SummoningCircles
+tags:
+---
+Now, this may need a little more brain power. #line:devil_tutorial_16 
+You're going to have to <color=red>hold</color> it. #line:devil_tutorial_17
+Though, it can get tiring. <color=red>Let go</color> if you feel like taking a break from helping your co-worker. #line:devil_tutorial_18 
+===
+
+//the cameras morph into one camera view to show...
+title: DualSummoningCircles
+tags:
+---
+There will be times where you <color=red>need each other</color>. #line:devil_tutorial_19
+This is one of those times. #line:devil_tutorial_20 
+Yuck... teamwork. #line:devil_tutorial_21 
+===
+
+title: P1PlayerSpecific
+tags:
+---
+These buttons should be pretty self-explanatory. #line:devil_tutorial_22 
+What, don't know what <color=red>your own face</color> looks like? #line:devil_tutorial_23 
+
+//<<DestroyBlockingWall9>>
+===
+
+title: P2PlayerSpecific
+tags:
+---
+These buttons should be pretty self-explanatory. #line:0340788 
+What, don't know what <color=red>your own face</color> looks like? #line:0b32172 
+
+//<<DestroyBlockingWall9>>
+===
+
+//the cameras morph into one camera view to show...
+title: Sabotage
+tags:
+---
+Now you're done with the hard part of your job. #line:devil_tutorial_24 
+But, it's not over yet. #line:devil_tutorial_25
+What are you waiting for? <color=red>Deliver the package!</color> #line:devil_tutorial_26 
+Remember, <color=red>rewards await</color> the one who delivers. #line:devil_tutorial_1 
+===
